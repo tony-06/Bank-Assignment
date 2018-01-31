@@ -1,0 +1,4 @@
+﻿  homework_1.cpp
+c:\users\tnrus\source\repos\homework_1\homework_1\homework_1.cpp(77): warning C4715: 'menu': not all control paths return a value
+c:\users\tnrus\source\repos\homework_1\homework_1\homework_1.cpp(104): warning C4715: 'withdraw': not all control paths return a value
+  homework_1.vcxproj -> C:\Users\tnrus\source\repos\homework_1\Debug\homework_1.exe
